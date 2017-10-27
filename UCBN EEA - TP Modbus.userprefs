@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EE2468EC-3E0B-4B3B-B5A6-8A737D1976AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UCBN EEA - TP Modbus/Program.cs">
+    <Files>
+      <File FileName="UCBN EEA - TP Modbus/Program.cs" Line="95" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UCBN_220EEA_220-_220TP_220Modbus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
